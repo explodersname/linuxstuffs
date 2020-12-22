@@ -19,7 +19,7 @@ fi
 # exec startlxde
 # exec awesome
 # exec bspwm
-exec gnome-session
+# exec gnome-session
 # exec gnome-session --session=gnome-classic
 # exec startplasma-x11
 # exec startplasma-wayland
